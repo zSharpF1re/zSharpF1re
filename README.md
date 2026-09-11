@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%"  title="Intro Card" alt="Intro Card">
+  <img src="banner.webp" width="100%"  title="Intro Card" alt="Intro Card">
 </p>
 <hr>
 
